@@ -1,4 +1,4 @@
-package org.study.oauth.auth.application.authclient.dto;
+package org.study.oauth.auth.application.authclient.kakao.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
